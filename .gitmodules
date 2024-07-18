@@ -3,3 +3,6 @@
 	url = https://github.com/CAHLR/OATutor-Content.git
 [submodule "OATutor-Content"]
 	path = oatutor
+[submodule "oatutor"]
+	path = oatutor
+	url = https://github.com/yerinkwak/OATutor-Content.git
