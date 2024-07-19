@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OATutor-Swedish-Math/static/css/main.21846825.css",
-    "main.js": "/OATutor-Swedish-Math/static/js/main.7aec54e2.js",
+    "main.js": "/OATutor-Swedish-Math/static/js/main.0923c635.js",
     "static/js/790.fd05bda3.chunk.js": "/OATutor-Swedish-Math/static/js/790.fd05bda3.chunk.js",
     "static/js/563.56d4972d.chunk.js": "/OATutor-Swedish-Math/static/js/563.56d4972d.chunk.js",
     "static/js/546.729d5457.chunk.js": "/OATutor-Swedish-Math/static/js/546.729d5457.chunk.js",
@@ -12,10 +12,10 @@
     "static/media/Symbola.woff2": "/OATutor-Swedish-Math/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
     "index.html": "/OATutor-Swedish-Math/index.html",
     "main.21846825.css.map": "/OATutor-Swedish-Math/static/css/main.21846825.css.map",
-    "main.7aec54e2.js.map": "/OATutor-Swedish-Math/static/js/main.7aec54e2.js.map"
+    "main.0923c635.js.map": "/OATutor-Swedish-Math/static/js/main.0923c635.js.map"
   },
   "entrypoints": [
     "static/css/main.21846825.css",
-    "static/js/main.7aec54e2.js"
+    "static/js/main.0923c635.js"
   ]
 }
