@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/yerinkwak/OATutor-Swedish-Math.git/static/css/main.537355af.css",
-    "main.js": "/yerinkwak/OATutor-Swedish-Math.git/static/js/main.74388cf3.js",
-    "static/js/790.fd05bda3.chunk.js": "/yerinkwak/OATutor-Swedish-Math.git/static/js/790.fd05bda3.chunk.js",
-    "static/js/563.56d4972d.chunk.js": "/yerinkwak/OATutor-Swedish-Math.git/static/js/563.56d4972d.chunk.js",
-    "static/js/546.729d5457.chunk.js": "/yerinkwak/OATutor-Swedish-Math.git/static/js/546.729d5457.chunk.js",
-    "static/media/Symbola.svg": "/yerinkwak/OATutor-Swedish-Math.git/static/media/Symbola.f647c9292a2da02d9ae8.svg",
-    "static/media/Symbola.eot": "/yerinkwak/OATutor-Swedish-Math.git/static/media/Symbola.d25fbd520f6558203fb4.eot",
-    "static/media/Symbola.ttf": "/yerinkwak/OATutor-Swedish-Math.git/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
-    "static/media/Symbola.woff": "/yerinkwak/OATutor-Swedish-Math.git/static/media/Symbola.353fd9bde3c87711f5fc.woff",
-    "static/media/Symbola.woff2": "/yerinkwak/OATutor-Swedish-Math.git/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
-    "index.html": "/yerinkwak/OATutor-Swedish-Math.git/index.html",
-    "main.537355af.css.map": "/yerinkwak/OATutor-Swedish-Math.git/static/css/main.537355af.css.map",
-    "main.74388cf3.js.map": "/yerinkwak/OATutor-Swedish-Math.git/static/js/main.74388cf3.js.map"
+    "main.css": "/OATutor-Swedish-Math/static/css/main.21846825.css",
+    "main.js": "/OATutor-Swedish-Math/static/js/main.7aec54e2.js",
+    "static/js/790.fd05bda3.chunk.js": "/OATutor-Swedish-Math/static/js/790.fd05bda3.chunk.js",
+    "static/js/563.56d4972d.chunk.js": "/OATutor-Swedish-Math/static/js/563.56d4972d.chunk.js",
+    "static/js/546.729d5457.chunk.js": "/OATutor-Swedish-Math/static/js/546.729d5457.chunk.js",
+    "static/media/Symbola.svg": "/OATutor-Swedish-Math/static/media/Symbola.f647c9292a2da02d9ae8.svg",
+    "static/media/Symbola.eot": "/OATutor-Swedish-Math/static/media/Symbola.d25fbd520f6558203fb4.eot",
+    "static/media/Symbola.ttf": "/OATutor-Swedish-Math/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
+    "static/media/Symbola.woff": "/OATutor-Swedish-Math/static/media/Symbola.353fd9bde3c87711f5fc.woff",
+    "static/media/Symbola.woff2": "/OATutor-Swedish-Math/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
+    "index.html": "/OATutor-Swedish-Math/index.html",
+    "main.21846825.css.map": "/OATutor-Swedish-Math/static/css/main.21846825.css.map",
+    "main.7aec54e2.js.map": "/OATutor-Swedish-Math/static/js/main.7aec54e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.537355af.css",
-    "static/js/main.74388cf3.js"
+    "static/css/main.21846825.css",
+    "static/js/main.7aec54e2.js"
   ]
 }
