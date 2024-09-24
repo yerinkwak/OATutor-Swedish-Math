@@ -1,2 +1,5 @@
 [submodule "OATutor-Content"]
 	path = oatutor
+[submodule "src/content-sources/oatutor"]
+	path = src/content-sources/oatutor
+	url = https://github.com/yerinkwak/OATutor-Content-Swe-v1.git
